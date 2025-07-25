@@ -1,4 +1,4 @@
-# Build Your First MCP Server: Leave Management
+# MCP Server: Leave Management
 This AI tool helps an HR with leave management related tasks. The codebase here 
 is for MCP server that interacts with mock leave database and responds to MCP client queries
 
